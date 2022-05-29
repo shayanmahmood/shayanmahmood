@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on <a href="https://facebook-clone-shayan.netlify.app/" target="blank">Facebook-Clone</a>.
+- 🔭 I’m currently working on <a href="https://shayan-facebook.netlify.app/" target="blank">Facebook-Clone</a>.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for AwerSome BAckENd COURses.
 - 📫 How to reach me: shayanmahmood234@gmail.com.
