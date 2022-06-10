@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://eager-minsky-0cd817.netlify.app/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29%20(2).png" height="175px"/></a>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'am SHAyaN MAhm00d</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">I'am SHAyaN MAhm00d</h1>
 <h3 align="left">I'm a passionate Full Professtional Programmer.</h3>
 
 
